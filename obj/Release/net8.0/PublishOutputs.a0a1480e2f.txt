@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\junedotnetproj\junewebapp\bin\Release\net8.0\publish\junewebapp.exe
+C:\Users\PC\Desktop\junedotnetproj\junewebapp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\PC\Desktop\junedotnetproj\junewebapp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\PC\Desktop\junedotnetproj\junewebapp\bin\Release\net8.0\publish\junewebapp.dll
+C:\Users\PC\Desktop\junedotnetproj\junewebapp\bin\Release\net8.0\publish\junewebapp.deps.json
+C:\Users\PC\Desktop\junedotnetproj\junewebapp\bin\Release\net8.0\publish\junewebapp.runtimeconfig.json
+C:\Users\PC\Desktop\junedotnetproj\junewebapp\bin\Release\net8.0\publish\junewebapp.pdb
