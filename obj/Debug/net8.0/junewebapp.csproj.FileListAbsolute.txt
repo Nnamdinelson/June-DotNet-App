@@ -28,3 +28,4 @@ c:\Users\PC\Desktop\junedotnetproj\junewebapp\obj\Debug\net8.0\scopedcss\project
 c:\Users\PC\Desktop\junedotnetproj\junewebapp\obj\Debug\net8.0\refint\junewebapp.dll
 c:\Users\PC\Desktop\junedotnetproj\junewebapp\obj\Debug\net8.0\junewebapp.genruntimeconfig.cache
 c:\Users\PC\Desktop\junedotnetproj\junewebapp\obj\Debug\net8.0\ref\junewebapp.dll
+C:\Users\PC\Desktop\junedotnetproj\junewebapp\obj\Debug\net8.0\junewebapp.sourcelink.json
